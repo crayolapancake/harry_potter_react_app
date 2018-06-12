@@ -1,0 +1,13 @@
+body {
+  margin: 20;
+  padding: 20;
+  font-family: sans-serif;
+  background-image: url('https://i.ytimg.com/vi/Zx3gn6cU2CY/maxresdefault.jpg');
+}
+
+.character-image{
+  height: 250px;
+  width: auto;
+  border-radius: 50%;
+  border: solid black 5px;
+}
